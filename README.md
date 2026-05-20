@@ -1,7 +1,8 @@
 # deannacorado
 
 # 💫 About Me:
->> BSIT with Specialization in Web and Mobile Applications Development | Bulacan State University<br>>> Backend development
+BSIT with Specialization in Web and Mobile Applications Development | Bulacan State University<br>
+Backend development
 
 
 ## 🌐 Socials:
